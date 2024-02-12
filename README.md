@@ -2,4 +2,4 @@
 
 # author https://github.com/TamjidAhmed10/nextui_shadcn_daisyui_template.git
 
-@TODO add three js, sentry, tauri, local logger
+@TODO add three js, sentry, tauri, local logger, prism | supper base, graphql, apollo | yoga, eslint, pretier rules.
